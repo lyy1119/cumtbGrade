@@ -1,0 +1,8 @@
+{
+    "smtp" : {  "server"    : "" ,
+                "port"      : 25 ,
+                "user"      : "" ,
+                "password"  : "" ,
+                "type"      : "tls"
+            }
+}
